@@ -10,6 +10,26 @@ This project demonstrates core frontend concepts such as component-based archite
 
 ---
 
+## 🧠 Key Concepts
+- React Hooks (useState)
+- Component communication via props
+- Array rendering using map()
+- Event handling in React
+- Controlled forms using react-hook-form
+
+---
+
+## 🔄 Application Flow
+1. User enters details in the form
+2. Form submits data to parent component
+3. Data is stored in state
+4. UI updates and displays new user card
+5. User can remove any card
+
+
+---
+
+
 ## 🚀 Features
 
 - Create user profiles (name, email, image)
