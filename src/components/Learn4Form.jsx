@@ -5,13 +5,13 @@ function Learn4Form({Handleformsubmit}) {
 const {register,handleSubmit,reset,watch} = useForm();
 // console.log(data);
 const Handleformsubmitdata = (data,e)=>{
-    e.preventDefault(); 
+    // e.preventDefault(); 
     // e.preventDefault();
     
     console.log(data);
     const Name = watch("name");
     const Email = watch("email");
-    console.log(Name);
+    // console.log(Name);
     Handleformsubmit(data);
     reset();
     
