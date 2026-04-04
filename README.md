@@ -1,29 +1,40 @@
-# 👤 User Card App (React)
+# 👤 User Card App
 
-A simple React application that allows users to **add, display, and remove user cards** using a form.
+A lightweight React application for creating, displaying, and managing user profile cards. Users can input details via a form and dynamically render them as UI cards.
+
+---
+
+## 📌 Description
+
+This project demonstrates core frontend concepts such as component-based architecture, state management, and form handling using modern React practices.
 
 ---
 
 ## 🚀 Features
 
-- 📝 Add users with:
-  - Name
-  - Email
-  - Image URL
-- 🧾 Display user cards dynamically
-- ❌ Remove users instantly
-- ⚡ Built using React Hooks
-- 🎯 Uses `react-hook-form` for form handling
+- Create user profiles (name, email, image)
+- Dynamic rendering of user cards
+- Remove users from the list
+- Clean and reusable component structure
+- Form handling with react-hook-form
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Form Handling:** react-hook-form
+- **Language:** JavaScript (ES6+)
 
 ---
 
 ## 📂 Project Structure
 src/
-│
 ├── components/
-│ ├── Learn4Card.jsx # Renders list of cards
-│ ├── Learn4Cards.jsx # Individual card UI
-│ └── Learn4Form.jsx # Form component
+│ ├── Learn4Form.jsx # Handles user input form
+│ ├── Learn4Card.jsx # Renders list of user cards
+│ └── Learn4Cards.jsx # Individual user card component
 │
-├── App.jsx # Main app logic
+├── App.jsx # Main application logic
 └── main.jsx
