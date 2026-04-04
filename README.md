@@ -31,10 +31,17 @@ This project demonstrates core frontend concepts such as component-based archite
 
 ## 📂 Project Structure
 src/
+<br>
 ├── components/
+<br>
 │ ├── Learn4Form.jsx # Handles user input form
+<br>
 │ ├── Learn4Card.jsx # Renders list of user cards
+<br>
 │ └── Learn4Cards.jsx # Individual user card component
+<br>
 │
+<br>
 ├── App.jsx # Main application logic
+<br>
 └── main.jsx
