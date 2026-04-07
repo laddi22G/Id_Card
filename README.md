@@ -19,11 +19,16 @@ This project demonstrates core frontend concepts such as component-based archite
 
 ## 🖥️ App Preview
 
+
+<p align="center" width="45%">
+ 
 ### 🏠 Home (Add User)
 ![Home page](./util/homepage.png)
 
 ### ✏️ Edit Task Mode
 ![Added users](./util/useradded.png)
+
+</p>
 
 
 ---
