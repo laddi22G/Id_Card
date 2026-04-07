@@ -8,6 +8,24 @@ A lightweight React application for creating, displaying, and managing user prof
 
 This project demonstrates core frontend concepts such as component-based architecture, state management, and form handling using modern React practices.
 
+--- 
+## 🔗 Live Demo
+
+👉 [View Live Project](https://id-card-zeta-three.vercel.app/)
+
+---
+
+## 📸 Screenshots
+
+## 🖥️ App Preview
+
+### 🏠 Home (Add User)
+![Home page](./util/homepage.png)
+
+### ✏️ Edit Task Mode
+![Added users](./util/useradded.png)
+
+
 ---
 
 ## 🧠 Key Concepts
